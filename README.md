@@ -17,4 +17,5 @@ Cellular automata have been used to model a wide variety of phenomena, including
 physical systems, biological systems, and social systems.
 
 Authored By : [Shadmehr Salehi](https://github.com/shadmehr-salehi) , [Nazanin Zarei](https://github.com/nazaninzareirad) ,[Foozhan Fahimzade](https://github.com/FoozhanFahimzade) <br>
-May be used under `CC BY` License
+## License
+[Attribution 4.0 International (CC BY-SA 4.0)](/LICENSE.md)
